@@ -10,3 +10,4 @@ Vous pouvez ensuite procéder comme suit :
 cd frontend
 npm install
 ng serve
+Exécutez ng servepour un serveur de développement. Accédez à http://localhost:4200/. L'application se rechargera automatiquement si vous modifiez l'un des fichiers source.
